@@ -30,7 +30,6 @@
 * [L27][L27] - Energy and CMOS Design
 * [L28][L28] - Breaking the Abstraction Barrier
 
-
 [L00]: ./Lectures/L00.md
 [L01]: ./Lectures/L01.md
 [L02]: ./Lectures/L02.md
@@ -60,3 +59,7 @@
 [L26]: ./Lectures/L26.md
 [L27]: ./Lectures/L27.md
 [L28]: ./Lectures/L28.md
+
+## MIT OpenCourseWare (OCW)
+
+[6.002 Circuits and Electronics, Spring 2007](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11)
