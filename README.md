@@ -1,5 +1,6 @@
 # MIT 6.002 - Circuits and Electronics
 
+* [Math Review][MathReview]
 * [L00][L00] - Overview
 * [L01][L01] - Circuit Elements
 * [L02][L02] - Circuit Analysis Toolchest
@@ -30,6 +31,8 @@
 * [L27][L27] - Energy and CMOS Design
 * [L28][L28] - Breaking the Abstraction Barrier
 
+
+[MathReview]: ./Lectures/Math.md
 [L00]: ./Lectures/L00.md
 [L01]: ./Lectures/L01.md
 [L02]: ./Lectures/L02.md
